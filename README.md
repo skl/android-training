@@ -1,7 +1,7 @@
 Prerequisites: http://skl.me/#building-your-first-android-app
 
-In order to compile this project, you need to set the `ANDROID_HOME` environment variable to the location the Android
-SDK, e.g.:
+In order to compile this project, you need to set the `ANDROID_HOME` environment variable to the location of the
+Android SDK, e.g.:
 
 ```
 export ANDROID_HOME=/usr/local/android-sdk
